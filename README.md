@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção de projetos que desenvolvi, utilizando as mais recentes tecnologias e práticas de desenvolvimento.
 
+![Screenshot do Projeto](assets/screenshot.png)
+
 ## Descrição do Projeto
 
 Este portfólio é uma vitrine dos meus trabalhos em desenvolvimento web, demonstrando minhas habilidades e experiências em várias áreas. O design é responsivo e foi otimizado para oferecer uma experiência de usuário fluida em dispositivos móveis e desktops.
