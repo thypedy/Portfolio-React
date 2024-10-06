@@ -14,7 +14,6 @@ Este portfólio é uma vitrine dos meus trabalhos em desenvolvimento web, demons
 - **Tailwind CSS**: Framework CSS para estilização rápida e responsiva.
 - **React Router**: Biblioteca para gerenciar rotas em aplicações React.
 - **React Icons**: Biblioteca para ícones personalizáveis.
-- **Node.js**: Ambiente de execução JavaScript no servidor (se aplicável).
 
 ## Funcionalidades
 
